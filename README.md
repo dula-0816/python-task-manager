@@ -1,2 +1,16 @@
 # python-task-manager
-A Python task manager demonstrating CRUD operations, file handling, JSON storage, and GUI using Tkinter.
+This project demonstrates the evolution of a task manager application in Python.
+
+## Features
+- Add tasks
+- Edit tasks
+- Delete tasks
+- File storage
+- JSON data storage
+- GUI interface using Tkinter
+
+## Technologies
+- Python
+- JSON
+- File handling
+- Tkinter
